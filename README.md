@@ -1,8 +1,7 @@
 # TEC_284_Lab_6
-Starter code for lab 6.
+Code for Lab 6.
 
-In this lab, you will make a fork of this repo to create your own version of my starter code.
+Here is a line graph detailing the sound level over time:
 
-By the end, you will generate a graph in Excel that looks something like this:
-
-![Picture1](https://github.com/user-attachments/assets/aa726deb-2206-4f85-95d6-e49df3beb05e)
+![Picture1](<img width="598" height="361" alt="Screenshot 2025-09-09 143932" src="https://github.com/user-attachments/assets/729f3190-08f0-4535-b50e-0dc4d7bc8d88" />
+)
