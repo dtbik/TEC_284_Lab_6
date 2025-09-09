@@ -3,4 +3,4 @@ Code for Lab 6.
 
 Here is a line graph detailing the sound level over time:
 
-![Picture1](file:///C:/Users/lazer/OneDrive%20-%20IL%20State%20University/Desktop/Screenshot%202025-09-09%20143932.png)
+![Screenshot](<img width="598" height="361" alt="Screenshot 2025-09-09 143932" src="https://github.com/user-attachments/assets/d87a7169-1263-4cf1-8514-a6c40eb35993" />)
